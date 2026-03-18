@@ -1,2 +1,3 @@
 # 3650updateSetting
-set 3650 days update for windows
+---
+让Windows电脑更新时间变为3650天
